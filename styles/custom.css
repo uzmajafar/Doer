@@ -1,0 +1,7 @@
+
+.ui-grid-a{
+	margin:16px 0;
+}
+#prizes .ui-grid-a .ui-block-a, #prizes .ui-grid-a .ui-block-b{
+	padding:20px;
+}
